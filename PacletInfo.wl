@@ -2,7 +2,7 @@
 
 PacletObject[
   <|
-    "Name" -> "Wolfram__CodeEquivalenceUtilities",
+    "Name" -> "CodeEquivalenceUtilities",
     "Description" -> "Utilities for testing code equivalence",
     "Creator" -> "Richard Hennigan <richardh@wolfram.com>",
     "Version" -> "1.1.0",
@@ -77,9 +77,7 @@ PacletObject[
           "Wolfram`CodeEquivalenceUtilities`ToCanonicalForm"
         }
       },
-      {"Documentation", "Root" -> "Documentation"},
-      {"Asset", "Assets" -> {{"TestData", "./Tests/Data"}}},
-      {"Tests", Method -> "Experimental-v1"}
+      {"Documentation", "Root" -> "Documentation"}
     },
     "PublisherID" -> "Wolfram"
   |>

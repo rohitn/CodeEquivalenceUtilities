@@ -2,7 +2,7 @@
 
 PacletObject[
   <|
-    "Name" -> "CodeEquivalenceUtilities",
+    "Name" -> "Wolfram__CodeEquivalenceUtilities",
     "Description" -> "Utilities for testing code equivalence",
     "Creator" -> "Richard Hennigan <richardh@wolfram.com>",
     "Version" -> "1.2.0",
